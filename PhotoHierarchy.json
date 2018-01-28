@@ -1,0 +1,96 @@
+{
+  "name": "Photo",
+  "head": {
+    "name": "Katherine Gerberich",
+    "email": "katherine.gerberich@columbiaspectator.com",
+    "position": "Photo Editor"
+  },
+  "deputies": [
+    {
+      "name": "Kali Duffy",
+      "email": "kali.duffy@columbiaspectator.com",
+      "position": "Sports Photo Deputy",
+      "nameOfListservYouUse": "photostaff"
+    },
+    {
+      "name": "Trinity Lester",
+      "email": "trinity.lester@columbiaspectator.com",
+      "position": "A&E Photo Deputy"
+    },
+    {
+      "name": "Rya Inman",
+      "email": "rya.inman@columbiaspectator.com",
+      "position": "News Photo Deputy"
+    }
+  ],
+  "senior_staff": [
+    {
+      "name": "Yasmine Akki",
+      "email": "yasmine.akki@columbiaspectator.com",
+      "position": "Senior Staff Photographer"
+    },
+    {
+      "name": "Jaime Danies",
+      "email": "jaime.danies@columbiaspectator.com",
+      "position": "Senior Staff Photographer"
+    },
+    {
+      "name": "Benjamin Goldsmith",
+      "email": "benjamin.goldsmith@columbiaspectator.com",
+      "position": "Senior Staff Photographer"
+    },
+    {
+      "name": "Michael Edmonson",
+      "email": "michael.edmonson@columbiaspectator.com",
+      "position": "Senior Staff Photographer"
+    }
+  ],
+  "staff": [
+    {
+      "name": "Amelia Milne",
+      "email": "amelia.milne@columbiaspectator.com",
+      "position": "Staff Photographer"
+    },
+    {
+      "name": "Athena Chin",
+      "email": "athena.chin@columbiaspectator.com",
+      "position": "Staff Photographer"
+    },
+    {
+      "name": "Cherrie Zheng",
+      "email": "yz3163@barnard.edu",
+      "position": "Staff Photographer"
+    },
+    {
+      "name": "Elza Bouhassira",
+      "email": "elza.bouhassira@columbiaspectator.com",
+      "position": "Staff Photographer"
+    },
+    {
+      "name": "Kirill Buskirk",
+      "email": "kirill.buskirk@columbiaspectator.com",
+      "position": "Staff Photographer"
+    },
+    {
+      "name": "Kshithija KJ Mulam",
+      "email": "kshithija.mulam@columbiaspectator.com",
+      "position": "Staff Photographer"
+    },
+    {
+      "name": "Natalie Guerra",
+      "email": "natalie.guerra@columbiaspectator.com",
+      "position": "Staff Photographer"
+    },
+    {
+      "name": "Natalie Tischler",
+      "email": "natalie.tischler@columbiaspectator.com",
+      "position": "Staff Photographer"
+    },
+    {
+      "name": "Xavier Dade",
+      "email": "xavier.dade@columbiaspectator.com",
+      "position": "Staff Photographer"
+    }
+  ],
+  "trainees": []
+}
