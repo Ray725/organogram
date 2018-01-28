@@ -1,0 +1,110 @@
+{
+    "name": "Opinion",
+    "head": {
+        "name": "Octavio Galaviz",
+        "email": "octavio.galaviz@columbiaspectator.com",
+        "position": "Editorial Page Editor",
+        "nameOfListservYouUse": "opinion-team@columbiaspectator.com"
+    },
+    "head-title": "Editorial Page Editor",
+    "teams": [
+        {
+            "name": "Op-Ed",
+            "deputies": {
+                "name": "Destiny Spruill",
+                "email": "destiny.spruill@columbiaspectator.com",
+                "position": "Deputy Editorial Page Editor - Op-Eds"
+            },
+            "associates": [
+                {
+                    "name": "Kyra Dawkins",
+                    "email": "kyra.dawkins@columbiaspectator.com",
+                    "position": "Associate Editorial Page Editor - Op-Eds"
+                },
+                {
+                    "name": "Zita Surprenant",
+                    "email": "zita.surprenant@columbiaspectator.com",
+                    "position": "Associate Editorial Page Editor - Op-Eds"
+                },
+                {
+                    "name": "Nastassia Maes",
+                    "email": "nastassia.maes@columbiaspectator.com",
+                    "position": "Associate Editorial Page Editor - Op-Eds"
+                },
+                {
+                    "name": "Rhea Sahai",
+                    "email": "rhea.sahai@columbiaspectator.com",
+                    "position": "Associate Editorial Page Editor - Op-Eds"
+                },
+                {
+                    "name": "Aja Johnson",
+                    "email": "aja.johnson@columbiaspectator.com",
+                    "position": "Associate Editorial Page Editor - Op-Eds"
+                },
+                {
+                    "name": "Oliver Bauer-Nathan",
+                    "email": "oliver.bauer-nathan@columbiaspectator.com",
+                    "position": "Associate Editorial Page Editor - Op-Eds"
+                }
+            ],
+            "trainees": []
+        },
+        {
+            "name": "Columns",
+            "deputies": {
+                "name": "Laura Salgado",
+                "email": "laura.salgado@columbiaspectator.com",
+                "position": "Deputy Editorial Page Editor - Columns"
+            },
+            "associates": [
+                {
+                    "name": "Caitlin McCormick",
+                    "email": "caitlin.mccormick@columbiaspectator.com",
+                    "position": "Associate Editorial Page Editor - Columns"
+                },
+                {
+                    "name": "Charlotte Force",
+                    "email": "charlotte.force@columbiaspectator.edu",
+                    "position": "Associate Editorial Page Editor - Columns"
+                },
+                {
+                    "name": "Erin Neil",
+                    "email": "erin.neil@columbiaspectator.com",
+                    "position": "Associate Editorial Page Editor - Columns"
+                }
+            ],
+            "trainees": []
+        },
+        {
+            "name": "Projects",
+            "deputies": {
+                "name": "Juan Diego Jaramillo",
+                "email": "juandiego.jaramillo@columbiaspectator.com",
+                "position": "Deputy Editorial Page Editor - Projects"
+            },
+            "associates": [
+                {
+                    "name": "Katie Santamaria",
+                    "email": "katie.santamaria@columbiaspectator.com",
+                    "position": "Associate Editorial Page Editor - Projects"
+                },
+                {
+                    "name": "Kaili Meier",
+                    "email": "kaili.meier@columbiaspectator.com",
+                    "position": "Associate Editorial Page Editor - Projects"
+                },
+                {
+                    "name": "Sanjay Paul",
+                    "email": "sanjay.paul@columbiaspectator.com",
+                    "position": "Associate Editorial Page Editor - Projects"
+                },
+                {
+                    "name": "Dan Driscoll",
+                    "email": "dan.driscoll@columbiaspectator.com",
+                    "position": "Associate Editorial Page Editor - Projects"
+                }
+            ],
+            "trainees": []
+        }
+    ]
+}

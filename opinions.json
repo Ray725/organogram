@@ -1,0 +1,25 @@
+{
+  "name": "Opinion",
+  "head": "",
+  "head-title": "Editorial Page Editor",
+  "teams": [
+    {
+      "name": "Op-Ed",
+      "deputy": "",
+      "associates": [],
+      "trainees": []
+    },
+    {
+      "name": "Columns",
+      "deputy": "",
+      "associates": [],
+      "trainees": []
+    },
+    {
+      "name": "Projects",
+      "deputy": "",
+      "associates": [],
+      "trainees": []
+    }
+  ]
+}
