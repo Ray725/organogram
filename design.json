@@ -1,0 +1,87 @@
+{
+  "name": "Design",
+  "head": {
+    "name": "Cheryl Wang",
+    "email": "cheryl.wang@columbiaspectator.com",
+    "position": "Design Editor"
+  },
+  "deputies": [{
+    "name": "Zeyu (May) Cheng",
+    "email": "zeyu.cheng@columbiaspectator.com",
+    "position": "Layout Deputy"
+  }, {
+    "name": "Michelle Shin",
+    "email": "michelle.shin@columbiaspectator.com",
+    "position": "Sports Graphics Deputy"
+  }, {
+    "name": "Tassneen Bashir",
+    "email": "tassneen.bashir@columbiaspectator.com",
+    "position": "Illustrations Deputy"
+  }],
+  "associates": [{
+    "name": "Alison Li",
+    "email": "alison.li@columbiaspectator.com",
+    "position": "Illustrator"
+  }, {
+    "name": "Emily Li",
+    "email": "emily.li@columbiaspectator.com",
+    "position": "Illustrator"
+  }, {
+    "name": "Jenny Lee",
+    "email": "jenny.lee@columbiaspectator.com",
+    "position": "Illustrator"
+  }, {
+    "name": "Isabel Chun",
+    "email": "isabel.chun@columbiaspectator.com",
+    "position": "Illustrator"
+  }, {
+    "name": "Rachel Page",
+    "email": "rachel.page@columbiaspectator.com",
+    "position": "Designer"
+  }, {
+    "name": "Cindy Lin",
+    "email": "cindy.lin@columbiaspectator.com",
+    "position": "Designer"
+  }, {
+    "name": "Katie Lee",
+    "email": "katie.lee@columbiaspectator.com",
+    "position": "Illustrator"
+  }, {
+    "name": "Lilly Kwon",
+    "email": "lilly.kwon@columbiaspectator.com",
+    "position": "Illustrator"
+  }, {
+    "name": "Nada Zohayr",
+    "email": "nada.zohayr@columbiaspectator.com",
+    "position": "Illustrator"
+  }, {
+    "name": "Isabel Wong",
+    "email": "isabel.wong@columbiaspectator.com",
+    "position": "Designer"
+  }, {
+    "name": "Amy Moon",
+    "email": "amy.moon@columbiaspectator.com",
+    "position": "Illustrator"
+  }, {
+    "name": "Alondra Aguilar",
+    "email": "alondra.aguilar@columbiaspectator.com",
+    "position": "Designer"
+  }, {
+    "name": "Pitchapa Chantanapongvanij",
+    "email": "pitchapa.c@columbiaspectator.com",
+    "position": "Designer"
+  }, {
+    "name": "Suzy Shin",
+    "email": "suzy.shin@columbiaspectator.com",
+    "position": "Designer"
+  }],
+  "trainees": [{
+    "name": "Jane Haseman",
+    "email": "jane.haseman@columbiaspectator.com",
+    "position": "Data Projects "
+  }, {
+    "name": "Tanvi Hisaria",
+    "email": "Tanvi.Hisaria@columbiaspectator.com",
+    "position": "News Graphics Deputy"
+  }]
+}
