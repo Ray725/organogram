@@ -1,0 +1,290 @@
+{
+	"divisions": [
+		{
+			"name": "Corporate Board",
+			"members": [
+				{
+					"name": "",
+					"title": "Editor-in-Chief"
+				},
+				{
+					"name": "",
+					"title": "Managing Editor"
+				},
+				{
+					"name": "",
+					"title": "Publisher"
+				}
+			]
+		},
+
+		{
+			"name": "Journalism",
+			"lead-title": "Editor-in-Chief",
+			"lead-name": "",
+			"sections": [
+				{
+					"name": "News",
+					"head": "",
+					"head-title": "News Editor",
+					"teams": [
+						{
+							"name": "Spectrum",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						}
+					]
+				},
+				{
+					"name": "Opinion",
+					"head": "",
+					"head-title": "Editorial Page Editor",
+					"teams": [
+						{
+							"name": "Op-Ed",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						},
+						{
+							"name": "Columns",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						},
+						{
+							"name": "Projects",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						}
+					]
+				},
+				{
+					"name": "Arts and Entertainment",
+					"head": "",
+					"head-title": "Arts and Entertainment Editor",
+					"teams": [
+						{
+							"name": "Arts and Entertainment",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						}
+					]
+				},
+				{
+					"name": "Sports",
+					"head": "",
+					"head-title": "Sports Editor",
+					"teams": [
+						{
+							"name": "Sports",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						}
+					]
+				},
+				{
+					"name": "Copy",
+					"head": "",
+					"head-title": "Head Copy Editor",
+					"teams": [
+						{
+							"name": "",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						}
+					]
+				},
+				{
+					"name": "Photo",
+					"head": "",
+					"head-title": "Photo Editor",
+					"teams": [
+						{
+							"name": "",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						}
+					]
+				},
+				{
+					"name": "Design",
+					"head": "",
+					"head-title": "Design Editor",
+					"teams": [
+						{
+							"name": "Design",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						},
+						{
+							"name": "Graphics",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						},
+						{
+							"name": "Illustrations",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						},
+						{
+							"name": "Layout",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						}
+					]
+				},
+				{
+					"name": "The Eye",
+					"head": "",
+					"head-title": "Managing Editor",
+					"teams": [
+						{
+							"name": "Features",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						},
+						{
+							"name": "Lead Story",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						},
+						{
+							"name": "View From Here",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "Business and Innovation",
+			"lead-title": "Publisher",
+			"lead-name": "",
+			"sections": [
+				{
+					"name": "Product",
+					"head": "",
+					"head-title": "Head of Product",
+					"teams": [
+						{
+							"name":"Web Applications",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						},
+						{
+							"name": "Mobile",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						},
+						{
+							"name": "Front-End",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						},
+						{
+							"name": "Product Design",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						}
+					]
+				},
+				{	
+					"name": "Revenue",
+					"head": "",
+					"head-title": "Director of Revenue",
+					"teams": [
+						{
+							"name": "Sales",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						},
+						{
+							"name": "Development",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						}
+					]
+				},
+				{
+					"name": "Events",
+					"head": "",
+					"head-title": "Director of Events",
+					"teams": [
+						{
+							"name": "Events",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						}
+					]
+				},
+				{
+					"name": "Engagement",
+					"head": "",
+					"head-title": "Director of Engagement",
+					"teams": [
+						{
+							"name": "Data Analytics",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						},
+						{
+							"name": "Audience Development and Marketing",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						},
+						{
+							"name": "Social Media",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						}
+					]
+				},
+				{
+					"name": "Spectrum",
+					"head": "",
+					"head-title": "Spectrum Editor",
+					"teams": [
+						{
+							"name": "Spectrum",
+							"deputy": "",
+							"associates": [],
+							"trainees": []
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"name": "Staff Development",
+			"lead-title": "Staff Director",
+			"lead-name": ""
+		}
+	]
+}
