@@ -1,0 +1,108 @@
+{
+  "name": "News",
+  "head": {
+    "hierarchy": 0,
+    "name": "Rahil Kamath",
+    "email": "rahil.kamath@columbiaspectator.com",
+    "position": "News Editor",
+    "nameOfListservYouUse": "news-team@columbiaspectator.com"
+  },
+  "deputies": [{
+    "hierarchy": 1,
+    "name": "Eli Lee",
+    "email": "eli.lee@columbiaspectator.com",
+    "position": "Senior Staff Writer"
+  }, {
+    "hierarchy": 1,
+    "name": "Aubri Juhasz",
+    "email": "aubri.juhasz@columbiaspectator.com",
+    "position": "Senior Staff Writer"
+  }],
+  "associates": [{
+    "hierarchy": 2,
+    "name": "Cara Maines",
+    "email": "cara.maines@columbiaspectator.com",
+    "position": "Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Ainsley Bandrowski",
+    "email": "ainsley.bandrowski@columbiaspectator.com",
+    "position": "Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "August Gweon",
+    "email": "august.gweon@columbiaspectator.com",
+    "position": "Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Khadija Hussain",
+    "email": "khadija.hussain@columbiaspectator.com",
+    "position": "Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Kate Huangpu",
+    "email": "kate.huangpu@columbiaspectator.com",
+    "position": "Staff Writer"
+  }],
+  "trainees": [{
+    "hierarchy": 3,
+    "name": "Peter Maroulis",
+    "email": "peter.maroulis@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Jesús Guerra",
+    "email": "jesus.guerra@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Lorraine Jiang",
+    "email": "lorraine.jiang@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Charlie Munns",
+    "email": "charlotte.munns@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Emma Buzbee",
+    "email": "emma.buzbee@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Katherine Malus",
+    "email": "katherine.malus@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Ariana Nakhla",
+    "email": "ariana.nakhla@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Karen Xia",
+    "email": "karen.xia@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Teddy Ajluni",
+    "email": "teddy.ajluni@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Susu Rawwagah",
+    "email": "susu.rawwagah@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Valentina Rojas-Posada",
+    "email": "valentina.rojas@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Caprice Herjavec",
+    "email": "caprice.herjavec@columbiaspectator.com",
+    "position": "Trainee"
+  }]
+}
