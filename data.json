@@ -1,1072 +1,1042 @@
 [
-    [
-        {
-            "name": "Rahil Kamath",
-            "email": "rahil.kamath@columbiaspectator.com",
-            "position": "News Editor",
-            "nameOfListservYouUse": "news-team@columbiaspectator.com"
-        },
-        {
-            "name": "Eli Lee",
-            "email": "eli.lee@columbiaspectator.com",
-            "position": "Senior Staff Writer"
-        },
-        {
-            "name": "Aubri Juhasz",
-            "email": "aubri.juhasz@columbiaspectator.com",
-            "position": "Senior Staff Writer"
-        },
-        {
-            "name": "Cara Maines",
-            "email": "cara.maines@columbiaspectator.com",
-            "position": "Staff Writer"
-        },
-        {
-            "name": "Ainsley Bandrowski",
-            "email": "ainsley.bandrowski@columbiaspectator.com",
-            "position": "Staff Writer"
-        },
-        {
-            "name": "August Gweon",
-            "email": "august.gweon@columbiaspectator.com",
-            "position": "Staff Writer"
-        },
-        {
-            "name": "Khadija Hussain",
-            "email": "khadija.hussain@columbiaspectator.com",
-            "position": "Staff Writer"
-        },
-        {
-            "name": "Kate Huangpu",
-            "email": "kate.huangpu@columbiaspectator.com",
-            "position": "Staff Writer"
-        },
-        {
-            "name": "Peter Maroulis",
-            "email": "peter.maroulis@columbiaspectator.com",
-            "position": "Trainee"
-        },
-        {
-            "name": "Jesús Guerra",
-            "email": "jesus.guerra@columbiaspectator.com",
-            "position": "Trainee"
-        },
-        {
-            "name": "Lorraine Jiang",
-            "email": "lorraine.jiang@columbiaspectator.com",
-            "position": "Trainee"
-        },
-        {
-            "name": "Charlie Munns",
-            "email": "charlotte.munns@columbiaspectator.com",
-            "position": "Trainee"
-        },
-        {
-            "name": "Emma Buzbee",
-            "email": "emma.buzbee@columbiaspectator.com",
-            "position": "Trainee"
-        },
-        {
-            "name": "Katherine Malus",
-            "email": "katherine.malus@columbiaspectator.com",
-            "position": "Trainee"
-        },
-        {
-            "name": "Ariana Nakhla",
-            "email": "ariana.nakhla@columbiaspectator.com",
-            "position": "Trainee"
-        },
-        {
-            "name": "Karen Xia",
-            "email": "karen.xia@columbiaspectator.com",
-            "position": "Trainee"
-        },
-        {
-            "name": "Teddy Ajluni",
-            "email": "teddy.ajluni@columbiaspectator.com",
-            "position": "Trainee"
-        },
-        {
-            "name": "Susu Rawwagah",
-            "email": "susu.rawwagah@columbiaspectator.com",
-            "position": "Trainee"
-        },
-        {
-            "name": "Valentina Rojas-Posada",
-            "email": "valentina.rojas@columbiaspectator.com",
-            "position": "Trainee"
-        },
-        {
-            "name": "Caprice Herjavec",
-            "email": "caprice.herjavec@columbiaspectator.com",
-            "position": "Trainee"
-        }
-    ],
-    [
-        {
-            "name": "Octavio Galaviz",
-            "email": "octavio.galaviz@columbiaspectator.com",
-            "position": "Editorial Page Editor",
-            "nameOfListservYouUse": "opinion-team@columbiaspectator.com"
-        },
-        {
-            "name": "Urvi Awasthi",
-            "email": "urvi.awasthi@columbiaspectator.com",
-            "position": "Deputy Editorial Page Editor - Op-Eds"
-        },
-        {
-            "name": "Destiny Spruill",
-            "email": "destiny.spruill@columbiaspectator.com",
-            "position": "Deputy Editorial Page Editor - Op-Eds"
-        },
-        {
-            "name": "Laura Salgado",
-            "email": "laura.salgado@columbiaspectator.com",
-            "position": "Deputy Editorial Page Editor - Columns"
-        },
-        {
-            "name": "Juan Diego Jaramillo",
-            "email": "juandiego.jaramillo@columbiaspectator.com",
-            "position": "Deputy Editorial Page Editor - Projects"
-        },
-        {
-            "name": "Kyra Dawkins",
-            "email": "kyra.dawkins@columbiaspectator.com",
-            "position": "Associate Editorial Page Editor - Op-Eds"
-        },
-        {
-            "name": "Zita Surprenant",
-            "email": "zita.surprenant@columbiaspectator.com",
-            "position": "Associate Editorial Page Editor - Op-Eds"
-        },
-        {
-            "name": "Nastassia Maes",
-            "email": "nastassia.maes@columbiaspectator.com",
-            "position": "Associate Editorial Page Editor - Op-Eds"
-        },
-        {
-            "name": "Rhea Sahai",
-            "email": "rhea.sahai@columbiaspectator.com",
-            "position": "Associate Editorial Page Editor - Op-Eds"
-        },
-        {
-            "name": "Aja Johnson",
-            "email": "aja.johnson@columbiaspectator.com",
-            "position": "Associate Editorial Page Editor - Op-Eds"
-        },
-        {
-            "name": "Oliver Bauer-Nathan",
-            "email": "oliver.bauer-nathan@columbiaspectator.com",
-            "position": "Associate Editorial Page Editor - Op-Eds"
-        },
-        {
-            "name": "Caitlin McCormick",
-            "email": "caitlin.mccormick@columbiaspectator.com",
-            "position": "Associate Editorial Page Editor - Columns"
-        },
-        {
-            "name": "Charlotte Force",
-            "email": "charlotte.force@columbiaspectator.edu",
-            "position": "Associate Editorial Page Editor - Columns"
-        },
-        {
-            "name": "Erin Neil",
-            "email": "erin.neil@columbiaspectator.com",
-            "position": "Associate Editorial Page Editor - Columns"
-        },
-        {
-            "name": "Katie Santamaria",
-            "email": "katie.santamaria@columbiaspectator.com",
-            "position": "Associate Editorial Page Editor - Projects"
-        },
-        {
-            "name": "Kaili Meier",
-            "email": "kaili.meier@columbiaspectator.com",
-            "position": "Associate Editorial Page Editor - Projects"
-        },
-        {
-            "name": "Sanjay Paul",
-            "email": "sanjay.paul@columbiaspectator.com",
-            "position": "Associate Editorial Page Editor - Projects"
-        },
-        {
-            "name": "Dan Driscoll",
-            "email": "dan.driscoll@columbiaspectator.com",
-            "position": "Associate Editorial Page Editor - Projects"
-        }
-    ],
-    [
-        {
-            "name": "Sophie Kossakowski",
-            "email": "sophie.kossakowski@columbiaspectator.com",
-            "position": "Editor",
-            "nameOfListservYouUse": "arts-staff"
-        },
-        {
-            "name": "Sarah Beckley",
-            "email": "sarah.beckley@columbiaspectator.com",
-            "position": "Deputy Editor"
-        },
-        {
-            "name": "Gia Kim",
-            "email": "gia.kim@columbiaspectator.com",
-            "position": "Deputy Editor"
-        },
-        {
-            "name": "Kat Drake",
-            "email": "kathleen.drake@columbiaspectator.com",
-            "position": "Staff writer"
-        },
-        {
-            "name": "Lexa Armstrong",
-            "email": "lexa.armstrong@columbiaspectator.com",
-            "position": "Staff writer"
-        },
-        {
-            "name": "Sarah Robertson",
-            "email": "sarah.robertson@columbiaspectator.com",
-            "position": "Staff writer"
-        },
-        {
-            "name": "Fonda Shen",
-            "email": "fonda.shen@columbiaspectator.com",
-            "position": "Staff writer"
-        },
-        {
-            "name": "Samuel D. Jones",
-            "email": "samuel.jones@columbiaspectator.com",
-            "position": "Staff writer"
-        },
-        {
-            "name": "Jack Meyer",
-            "email": "jack.meyer@columbiaspectator.com",
-            "position": "Staff writer"
-        },
-        {
-            "name": "Elena Scott",
-            "email": "elena.scott@columbiaspectator.com",
-            "position": "Staff writer"
-        }
-    ],
-    [
-        {
-            "name": "Chris Lopez",
-            "email": "Christopher.lopez@columbiaspectator.com",
-            "position": "Sports Editor",
-            "nameOfListservYouUse": "sportsstaff@columbiaspectator.com"
-        },
-        {
-            "name": "Leo Goldman",
-            "email": "leo.goldman@columbiaspectator.com",
-            "position": "Deputy Sports Editor"
-        },
-        {
-            "name": "Ally McDonough",
-            "email": "ally.mcdonough@columbiaspectator.com",
-            "position": "Deputy Sports Editor"
-        },
-        {
-            "name": "Henry Schwartz",
-            "email": "henry.schwartz@columbiaspectator.com",
-            "position": "Deputy Sports Editor"
-        },
-        {
-            "name": "Chapman Hughes",
-            "email": "chapman.hughes@columbiaspectator.com",
-            "position": "Associate Editor/Staff Writer"
-        },
-        {
-            "name": "Chituga Weli",
-            "email": "chituga.weli@columbiaspectator.com",
-            "position": "Associate Editor/Staff Writer"
-        },
-        {
-            "name": "Jonah Sharf",
-            "email": "jonah.sharf@columbiaspectator.com",
-            "position": "Associate Editor/Staff Writer"
-        },
-        {
-            "name": "Jered Everson",
-            "email": "jered.everson@columbiaspectator.com",
-            "position": "Associate Editor/Staff Writer"
-        },
-        {
-            "name": "Alex Andrejev",
-            "email": "alex.andrejev@columbiaspectator.com",
-            "position": "Associate Editor/Staff Writer"
-        },
-        {
-            "name": "Ishya Verma",
-            "email": "ishya.verma@columbiaspectator.com",
-            "position": "Associate Editor/Staff Writer"
-        },
-        {
-            "name": "Peter Demopoulos",
-            "email": "peter.demopoulos@columbiaspectator.com",
-            "position": "Associate Editor/Staff Writer"
-        },
-        {
-            "name": "Jacqueline Diggs",
-            "email": "jacqueline.diigs@columbiaspectator.com",
-            "position": "Associate Editor/Staff Writer"
-        },
-        {
-            "name": "Anthony Montes",
-            "email": "anthony.montes@columbiaspectator.com",
-            "position": "Associate Editor/Staff Writer"
-        },
-        {
-            "name": "Alexander Brett",
-            "email": "alexander.brett@columbiaspectator.com",
-            "position": "Associate Editor/Staff Writer"
-        },
-        {
-            "name": "Sarah Toscano",
-            "email": "sarah.toscano@columbiaspectator.com",
-            "position": "Associate Editor/Staff Writer"
-        }
-    ],
-    [
-        {
-            "name": "Maya Perry",
-            "email": "maya.perry@columbiaspectator.com",
-            "position": "Managing Editor of The Eye",
-            "board": "MB"
-        },
-        {
-            "name": "Juliana Kim",
-            "email": "juliana.kim@columbiaspectator.com",
-            "position": "Lead Story Editor",
-            "board": "DB"
-        },
-        {
-            "name": "Lyric Bowditch",
-            "email": "lyric.bowditch@columbiaspectator.com",
-            "position": "Deputy Features Editor",
-            "board": "DB"
-        },
-        {
-            "name": "Parth Chhabra",
-            "email": "parth.chhabra@columbiaspectator.com",
-            "position": "Deputy Features Editor",
-            "board": "DB"
-        },
-        {
-            "name": "Arminda Downey-Mavromatis",
-            "email": "arminda.downey-mavromatis@columbiaspectator.com",
-            "position": "Associate Features Editor",
-            "board": "AB"
-        },
-        {
-            "name": "Candy Chan",
-            "email": "candy.chan@columbiaspectator.com",
-            "position": "Associate Features Editor",
-            "board": "AB"
-        },
-        {
-            "name": "Elizabeth Merrigan",
-            "email": "elizabeth.merrigan@columbiaspectator.com",
-            "position": "Associate Features Editor",
-            "board": "AB"
-        },
-        {
-            "name": "Julian Shen-Berro",
-            "email": "julian.shen-berro@columbiaspectator.com",
-            "position": "Associate Features Editor",
-            "board": "AB"
-        },
-        {
-            "name": "Peyton Alie",
-            "email": "peyton.alie@columbiaspectator.com",
-            "position": "Associate Features Editor",
-            "board": "AB"
-        },
-        {
-            "name": "Kendra Zhong",
-            "email": "kendra.zhong@columbiaspectator.com",
-            "position": "Associate Features Editor",
-            "board": "AB"
-        },
-        {
-            "name": "Gavrielle Jacobovitz",
-            "email": "gavrielle.jacobovitz@columbiaspectator.com",
-            "position": "View From Here Editor",
-            "board": "AB"
-        },
-        {
-            "name": "Alex Gluckman",
-            "email": "alex.gluckman@columbiaspectator.com",
-            "position": "Staff Writer",
-            "board": "AB"
-        },
-        {
-            "name": "Amulya Tadimety",
-            "email": "amula.tadimety@columbiaspectator.com",
-            "position": "Staff Writer",
-            "board": "AB"
-        },
-        {
-            "name": "Emile Warot",
-            "email": "emile.warot@columbiaspectator.com",
-            "position": "Staff Writer",
-            "board": "AB"
-        },
-        {
-            "name": "Floriana Milazzo ",
-            "email": "floriana.milazzo@columbiaspectator.com",
-            "position": "Staff Writer",
-            "board": "AB"
-        },
-        {
-            "name": "Imani Benberry",
-            "email": "imani.benberry@columbiaspectator.com",
-            "position": "Staff Writer",
-            "board": "AB"
-        },
-        {
-            "name": "Jake Arlow",
-            "email": "jake.arlow@columbiaspectator.com",
-            "position": "Staff Writer - The Ear",
-            "board": "AB"
-        },
-        {
-            "name": "Jesse Chase-Lubitz",
-            "email": "jesse.chase-lubitz@columbiaspectator.com",
-            "position": "Staff Writer",
-            "board": "AB"
-        },
-        {
-            "name": "Justin Cheng",
-            "email": "justin.cheng@columbiaspectator.com",
-            "position": "Staff Writer",
-            "board": "AB"
-        },
-        {
-            "name": "Kara Schechtman",
-            "email": "kara.schechtman@columbiaspectator.com",
-            "position": "Staff Writer - The Ear",
-            "board": "AB"
-        },
-        {
-            "name": "Laura Block",
-            "email": "laura.block@columbiaspectator.com",
-            "position": "Staff Writer",
-            "board": "AB"
-        },
-        {
-            "name": "Maneet Khaira",
-            "email": "maneet.khaira@columbiaspectator.com",
-            "position": "Staff Writer",
-            "board": "AB"
-        },
-        {
-            "name": "Megan Evershed",
-            "email": "megan.evershed@columbiaspectator.com",
-            "position": "Staff Writer",
-            "board": "AB"
-        },
-        {
-            "name": "Skylar Fetter",
-            "email": "skylar.fetter@columbiaspectator.com",
-            "position": "Staff Writer",
-            "board": "AB"
-        },
-        {
-            "name": "Sophia Cornell",
-            "email": "sophia.cornell@columbiaspectator.com",
-            "position": "Staff Writer",
-            "board": "AB",
-            "nameOfListservYouUse": "eye-team"
-        },
-        {
-            "name": "Trisha Mukherjee",
-            "email": "trisha.mukherjee@columbiaspectator.com",
-            "position": "Staff Writer",
-            "board": "AB"
-        },
-        {
-            "name": "Jordan Allyn",
-            "email": "jordan.allyn@columbiaspectator.com",
-            "position": "Staff Writer"
-        },
-        {
-            "name": "Justin Cheng",
-            "email": "justin.cheng@columbiaspectator.com",
-            "position": "Staff Writer"
-        },
-        {
-            "name": "Molly Miller",
-            "email": "molly.miller@columbiaspectator.com",
-            "position": "Staff Writer"
-        },
-        {
-            "name": "Maya Perry",
-            "email": "maya.perry@columbiaspectator.com",
-            "position": "Lead Story Editor"
-        },
-        {
-            "name": "Rebecca Ausseil",
-            "email": "rebecca.ausseil@columbiaspectator.com",
-            "position": "Managing Editor, The Eye"
-        }
-    ],
-    [
-        {
-            "name": "Diane Kim",
-            "email": "diane.kim@columbiaspectator.com",
-            "position": "Design Editor"
-        },
-        {
-            "name": "Cheryl Wang",
-            "email": "cheryl.wang@columbiaspectator.com",
-            "position": "Design Editor"
-        },
-        {
-            "name": "Jane Haseman",
-            "email": "jane.haseman@columbiaspectator.com",
-            "position": "Data Projects "
-        },
-        {
-            "name": "Zeyu (May) Cheng",
-            "email": "zeyu.cheng@columbiaspectator.com",
-            "position": "Layout Deputy"
-        },
-        {
-            "name": "Alison Li",
-            "email": "alison.li@columbiaspectator.com",
-            "position": "Illustrator"
-        },
-        {
-            "name": "Emily Li",
-            "email": "emily.li@columbiaspectator.com",
-            "position": "Illustrator"
-        },
-        {
-            "name": "Jenny Lee",
-            "email": "jenny.lee@columbiaspectator.com",
-            "position": "Illustrator"
-        },
-        {
-            "name": "Isabel Chun",
-            "email": "isabel.chun@columbiaspectator.com",
-            "position": "Illustrator"
-        },
-        {
-            "name": "Rachel Page",
-            "email": "rachel.page@columbiaspectator.com",
-            "position": "Designer"
-        },
-        {
-            "name": "Cindy Lin",
-            "email": "cindy.lin@columbiaspectator.com",
-            "position": "Designer"
-        },
-        {
-            "name": "Katie Lee",
-            "email": "katie.lee@columbiaspectator.com",
-            "position": "Illustrator"
-        },
-        {
-            "name": "Lilly Kwon",
-            "email": "lilly.kwon@columbiaspectator.com",
-            "position": "Illustrator"
-        },
-        {
-            "name": "Michelle Shin",
-            "email": "michelle.shin@columbiaspectator.com",
-            "position": "Sports Graphics Deputy"
-        },
-        {
-            "name": "Tassneen Bashir",
-            "email": "tassneen.bashir@columbiaspectator.com",
-            "position": "Illustrations Deputy"
-        },
-        {
-            "name": "Nada Zohayr",
-            "email": "nada.zohayr@columbiaspectator.com",
-            "position": "Illustrator"
-        },
-        {
-            "name": "Isabel Wong",
-            "email": "isabel.wong@columbiaspectator.com",
-            "position": "Designer"
-        },
-        {
-            "name": "Amy Moon",
-            "email": "amy.moon@columbiaspectator.com",
-            "position": "Illustrator"
-        },
-        {
-            "name": "Alondra Aguilar",
-            "email": "alondra.aguilar@columbiaspectator.com",
-            "position": "Designer"
-        },
-        {
-            "name": "Pitchapa Chantanapongvanij",
-            "email": "pitchapa.c@columbiaspectator.com",
-            "position": "Designer"
-        },
-        {
-            "name": "Suzy Shin",
-            "email": "suzy.shin@columbiaspectator.com",
-            "position": "Designer"
-        },
-        {
-            "name": "Tanvi Hisaria",
-            "email": "Tanvi.Hisaria@columbiaspectator.com",
-            "position": "News Graphics Deputy"
-        }
-    ],
-    [
-        {
-            "name": "Katherine Gerberich",
-            "email": "katherine.gerberich@columbiaspectator.com",
-            "position": "Photo Editor"
-        },
-        {
-            "name": "Kali Duffy",
-            "email": "kali.duffy@columbiaspectator.com",
-            "position": "Sports Photo Deputy",
-            "nameOfListservYouUse": "photostaff"
-        },
-        {
-            "name": "Trinity Lester",
-            "email": "trinity.lester@columbiaspectator.com",
-            "position": "A&E Photo Deputy"
-        },
-        {
-            "name": "Rya Inman",
-            "email": "rya.inman@columbiaspectator.com",
-            "position": "News Photo Deputy"
-        },
-        {
-            "name": "Yasmine Akki",
-            "email": "yasmine.akki@columbiaspectator.com",
-            "position": "Senior Staff Photographer"
-        },
-        {
-            "name": "Jaime Danies",
-            "email": "jaime.danies@columbiaspectator.com",
-            "position": "Senior Staff Photographer"
-        },
-        {
-            "name": "Benjamin Goldsmith",
-            "email": "benjamin.goldsmith@columbiaspectator.com",
-            "position": "Senior Staff Photographer"
-        },
-        {
-            "name": "Michael Edmonson",
-            "email": "michael.edmonson@columbiaspectator.com",
-            "position": "Senior Staff Photographer"
-        },
-        {
-            "name": "Amelia Milne",
-            "email": "amelia.milne@columbiaspectator.com",
-            "position": "Staff Photographer"
-        },
-        {
-            "name": "Athena Chin",
-            "email": "athena.chin@columbiaspectator.com",
-            "position": "Staff Photographer"
-        },
-        {
-            "name": "Cherrie Zheng",
-            "email": "yz3163@barnard.edu",
-            "position": "Staff Photographer"
-        },
-        {
-            "name": "Elza Bouhassira",
-            "email": "elza.bouhassira@columbiaspectator.com",
-            "position": "Staff Photographer"
-        },
-        {
-            "name": "Kirill Buskirk",
-            "email": "kirill.buskirk@columbiaspectator.com",
-            "position": "Staff Photographer"
-        },
-        {
-            "name": "Kshithija KJ Mulam",
-            "email": "kshithija.mulam@columbiaspectator.com",
-            "position": "Staff Photographer"
-        },
-        {
-            "name": "Natalie Guerra",
-            "email": "natalie.guerra@columbiaspectator.com",
-            "position": "Staff Photographer"
-        },
-        {
-            "name": "Natalie Tischler",
-            "email": "natalie.tischler@columbiaspectator.com",
-            "position": "Staff Photographer"
-        },
-        {
-            "name": "Xavier Dade",
-            "email": "xavier.dade@columbiaspectator.com",
-            "position": "Staff Photographer"
-        }
-    ],
-    [
-        {
-            "name": "Gustaf Ahdritz",
-            "email": "gwa2107@columbia.edu",
-            "position": "Head Copy Editor",
-            "nameOfListservYouUse": "copy-editors"
-        },
-        {
-            "name": "Romy Felsen-Parsons",
-            "email": "rf2614@columbia.edu",
-            "position": "Deputy Copy Editor"
-        },
-        {
-            "name": "Rachel Jones",
-            "position": "Deputy Copy Editor"
-        },
-        {
-            "name": "Philip Kim",
-            "email": "pk2542@columbia.edu",
-            "position": "Deputy Copy Editor"
-        },
-        {
-            "name": "Lindsey Sanderson",
-            "email": "lgs2136@columbia.edu",
-            "position": "Deputy Copy Editor"
-        },
-        {
-            "name": "Judith Teboul",
-            "email": "jt2939@columbia.edu",
-            "position": "Associate Copy Editor"
-        },
-        {
-            "name": "Amelia Tian",
-            "email": "xt2189@columbia.edu",
-            "position": "Associate Copy Editor"
-        },
-        {
-            "name": "Samantha Caveny",
-            "email": "samantha.k.caveny@columbia.edu",
-            "position": "Associate Copy Editor"
-        },
-        {
-            "name": "Ramsay Eyre",
-            "email": "ramsay.eyre@columbia.edu",
-            "position": "Associate Copy Editor"
-        },
-        {
-            "name": "Hannah Park",
-            "email": "hp2399@barnard.edu",
-            "position": "Associate Copy Editor"
-        },
-        {
-            "name": "Eden Teferi",
-            "email": "ett2111@columbia.edu",
-            "position": "Associate Copy Editor"
-        },
-        {
-            "name": "Tuesday Smith",
-            "email": "tas2204@barnard.edu",
-            "position": "Associate Copy Editor"
-        },
-        {
-            "name": "Maria Thompson",
-            "email": "maria.thompson@columbia.edu",
-            "position": "Associate Copy Editor"
-        },
-        {
-            "name": "Susanna Chang",
-            "email": "sc3999@columbia.edu",
-            "position": "Associate Copy Editor"
-        },
-        {
-            "name": "Erica Kam",
-            "email": "enk2118@barnard.edu",
-            "position": "Associate Copy Editor"
-        },
-        {
-            "name": "Shauna McNamara",
-            "email": "smm2314@columbia.edu",
-            "position": "Preslotter"
-        },
-        {
-            "name": "Jacob Hirsch",
-            "email": "jlh2235@columbia.edu",
-            "position": "Preslotter"
-        },
-        {
-            "name": "Kaatje Greenberg",
-            "email": "ksg2136@columbia.edu",
-            "position": "Preslotter"
-        },
-        {
-            "name": "Hyun Joon Choi",
-            "email": "hyunjoon.choi@columbia.edu",
-            "position": "Preslotter"
-        },
-        {
-            "name": "Jasper Howald",
-            "email": "jdh2195@columbia.edu",
-            "position": "Preslotter"
-        },
-        {
-            "name": "Melissa Dimopulo",
-            "email": "md3378@columbia.edu",
-            "position": "Preslotter"
-        },
-        {
-            "name": "Chidimma Nzerem",
-            "email": "cnn2107@columbia.edu",
-            "position": "Preslotter"
-        },
-        {
-            "name": "Tracy Chen",
-            "email": "tc2898@columbia.edu",
-            "position": "Preslotter"
-        },
-        {
-            "name": "Esteban De Las Traviesas",
-            "email": "ed2774@columbia.edu",
-            "position": "Preslotter"
-        },
-        {
-            "name": "Sophia Ramirez",
-            "email": "sr3263@columbia.edu",
-            "position": "Preslotter"
-        },
-        {
-            "name": "Stephanie Rovine",
-            "email": "sr3268@columbia.edu",
-            "position": "Preslotter"
-        },
-        {
-            "name": "Sage Max",
-            "email": "sm3915@barnard.edu",
-            "position": "Preslotter"
-        }
-    ],
-    [
-        {
-            "email": "austin.horn@columbiaspectator.com",
-            "position": "Spectrum editor",
-            "nameOfListservYouUse": "sj@columbiaspectator.com"
-        },
-        {
-            "email": "madeleine.leddy@columbiaspectator.com",
-            "position": "Spectrum deputy"
-        },
-        {
-            "email": "michael.edmonson@columbiaspectator.com",
-            "position": "Spectrum deputy"
-        },
-        {
-            "email": "peyton.ayers@columbiaspectator.com",
-            "position": "Spectrum staff"
-        },
-        {
-            "email": "olivia.hartzell@columbiaspectator.com",
-            "position": "Spectrum staff"
-        },
-        {
-            "email": "therese.bonoan.@columbiaspectator.com",
-            "position": "Spectrum staff"
-        },
-        {
-            "email": "brianna.zuniga@columbiaspectator.com",
-            "position": "Spectrum staff"
-        }
-    ],
-    [
-        {
-            "name": "William Chiu",
-            "email": "william.chiu@columbiaspectator.com",
-            "position": "Head of Product",
-            "nameOfListservYouUse": "Tier 0"
-        },
-        {
-            "name": "Arsalaan Ansari",
-            "email": "arsalaan.ansari@columbiaspectator.com",
-            "position": "Lead Engineer",
-            "nameOfListservYouUse": "Tier 1"
-        },
-        {
-            "name": "Kevin Li",
-            "email": "kevin.li@columbiaspectator.com",
-            "position": "Lead Developer",
-            "nameOfListservYouUse": "Tier 2"
-        },
-        {
-            "name": "Stacy Tao",
-            "email": "stacy.tao@columbiaspectator.com",
-            "position": "Lead Developer"
-        },
-        {
-            "name": "Prakruth Adari",
-            "email": "prakruth.adari@columbiaspectator.com",
-            "position": "Red Team Associate Developer"
-        },
-        {
-            "name": "Raymond Li",
-            "email": "raymond.li@columbiaspectator.com",
-            "position": "Red Team Associate Developer"
-        },
-        {
-            "name": "Emma Vukelj",
-            "email": "emma.vukelj@columbiaspectator.com",
-            "position": "Red Team Associate Developer"
-        },
-        {
-            "name": "Kathy Lau",
-            "email": "kathy.lau@columbiaspectator.com",
-            "position": "Red Team Associate Developer"
-        },
-        {
-            "name": "Matthew Broughton",
-            "email": "matthew.broughton@columbiaspectator.com",
-            "position": "Red Team Associate Developer"
-        },
-        {
-            "name": "Rahul Kataria",
-            "email": "rahul.kataria@columbiaspectator.com",
-            "position": "Red Team Associate Developer"
-        },
-        {
-            "name": "Justin Zwick",
-            "email": "justin.zwick@columbiaspectator.com",
-            "position": "Red Team Associate Developer"
-        },
-        {
-            "name": "Biqing Qiu",
-            "email": "biqing.qiu@columbiaspectator.com",
-            "position": "Red Team Associate Developer"
-        },
-        {
-            "name": "Lucie le Blanc",
-            "email": "lucie.leblanc@columbiaspectator.com",
-            "position": "Red Team Associate Developer"
-        },
-        {
-            "name": "Dru Grossberg",
-            "email": "dru.grossberg@columbiaspectator.com",
-            "position": "Red Team Associate Developer"
-        },
-        {
-            "name": "Irene Nam",
-            "email": "irene.nam@columbiaspectator.com",
-            "position": "Front End Associate Developer"
-        },
-        {
-            "name": "Alice Zhang",
-            "email": "alice.zhang@columbiaspectator.com",
-            "position": "Front End Associate Developer"
-        },
-        {
-            "name": "Matthew Vanegas",
-            "email": "matthew.vanegas@columbiaspectator.com",
-            "position": "Front End Associate Developer"
-        },
-        {
-            "name": "Yuna Shin",
-            "email": "yuna.shin@columbiaspectator.com",
-            "position": "Front End Associate Developer"
-        },
-        {
-            "name": "Kelvin Xu",
-            "email": "kelvin.xu@columbiaspectator.com",
-            "position": "Front End Associate Developer"
-        },
-        {
-            "name": "Janie Haseman",
-            "email": "jane.haseman@columbiaspectator.com",
-            "position": "Front End Trainee"
-        },
-        {
-            "name": "Natalie Vibhagool",
-            "email": "natalie.vibhagool@columbiaspectator.com",
-            "position": "Product Designer"
-        },
-        {
-            "name": "Eleanor Chen",
-            "email": "eleanor.chen@columbiaspectator.com",
-            "position": "Product Designer"
-        },
-        {
-            "name": "Cherie Chu",
-            "email": "cherie.chu@columbiaspectator.com",
-            "position": "Product Designer"
-        },
-        {
-            "name": "Alison Li",
-            "email": "alison.li@columbiaspectator.com",
-            "position": "Product Design Trainee"
-        },
-        {
-            "name": "Amanda Frame",
-            "email": "amanda.frame@columbiaspectator.com",
-            "position": "Product Designer"
-        }
-    ],
-    [
-        {
-            "name": "Nima Mozhgani",
-            "email": "nima.mozhgani@columbiaspectator.com",
-            "position": "Revenue Director",
-            "nameOfListservYouUse": "revenue-team@columbiaspectator.com"
-        },
-        {
-            "name": "Andrew Gruber",
-            "email": "andrew.gruber@columbiaspectator.com",
-            "position": "Sales Associate"
-        },
-        {
-            "name": "Maria Avila-Franklin",
-            "email": "maria.avila-franklin@columbiaspectator.com",
-            "position": "Sales Associate"
-        }
-    ],
-    [
-        {
-            "name": "Cayla Davis",
-            "email": "cayla.davis@columbiaspectator.com",
-            "position": "Engagement Trainee",
-            "nameOfListservYouUse": "engagement-team"
-        },
-        {
-            "name": "Emma Mizrahi-Powell",
-            "email": "emma.mizrahipowell@columbiaspectator.com",
-            "position": "Engagement Trainee"
-        },
-        {
-            "name": "Angela Liu",
-            "email": "angela.liu@columbiaspectator.com",
-            "position": "Engagement Trainee"
-        },
-        {
-            "name": "Amrita Khan",
-            "email": "amrita.khan@columbiaspectator.com",
-            "position": "Engagement Trainee"
-        },
-        {
-            "name": "Isabel Jauregui",
-            "email": "isabel.jauregui@columbiaspectator.com",
-            "position": "Engagement Trainee"
-        },
-        {
-            "name": "Madison Harden",
-            "email": "madison.harden@columbiaspectator.com",
-            "position": "Engagement Associate"
-        },
-        {
-            "name": "Sophie Battat",
-            "email": "sophie.battat@columbiaspectator.com",
-            "position": "Engagement Associate"
-        },
-        {
-            "name": "Victoria Yi",
-            "email": "victoria.yi@columbiaspectator.com",
-            "position": "Engagement Associate"
-        },
-        {
-            "name": "Audrey Fein",
-            "email": "audrey.fein@columbiaspectator.com",
-            "position": "Engagement Associate"
-        }
-    ]
+  [{
+    "hierarchy": 0,
+    "name": "Rahil Kamath",
+    "email": "rahil.kamath@columbiaspectator.com",
+    "position": "News Editor",
+    "nameOfListservYouUse": "news-team@columbiaspectator.com"
+  }, {
+    "hierarchy": 1,
+    "name": "Eli Lee",
+    "email": "eli.lee@columbiaspectator.com",
+    "position": "Senior Staff Writer"
+  }, {
+    "hierarchy": 1,
+    "name": "Aubri Juhasz",
+    "email": "aubri.juhasz@columbiaspectator.com",
+    "position": "Senior Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Cara Maines",
+    "email": "cara.maines@columbiaspectator.com",
+    "position": "Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Ainsley Bandrowski",
+    "email": "ainsley.bandrowski@columbiaspectator.com",
+    "position": "Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "August Gweon",
+    "email": "august.gweon@columbiaspectator.com",
+    "position": "Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Khadija Hussain",
+    "email": "khadija.hussain@columbiaspectator.com",
+    "position": "Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Kate Huangpu",
+    "email": "kate.huangpu@columbiaspectator.com",
+    "position": "Staff Writer"
+  }, {
+    "hierarchy": 3,
+    "name": "Peter Maroulis",
+    "email": "peter.maroulis@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Jesús Guerra",
+    "email": "jesus.guerra@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Lorraine Jiang",
+    "email": "lorraine.jiang@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Charlie Munns",
+    "email": "charlotte.munns@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Emma Buzbee",
+    "email": "emma.buzbee@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Katherine Malus",
+    "email": "katherine.malus@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Ariana Nakhla",
+    "email": "ariana.nakhla@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Karen Xia",
+    "email": "karen.xia@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Teddy Ajluni",
+    "email": "teddy.ajluni@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Susu Rawwagah",
+    "email": "susu.rawwagah@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Valentina Rojas-Posada",
+    "email": "valentina.rojas@columbiaspectator.com",
+    "position": "Trainee"
+  }, {
+    "hierarchy": 3,
+    "name": "Caprice Herjavec",
+    "email": "caprice.herjavec@columbiaspectator.com",
+    "position": "Trainee"
+  }],
+  [{
+    "hierarchy": 0,
+    "name": "Octavio Galaviz",
+    "email": "octavio.galaviz@columbiaspectator.com",
+    "position": "Editorial Page Editor",
+    "nameOfListservYouUse": "opinion-team@columbiaspectator.com"
+  }, {
+    "hierarchy": 1,
+    "name": "Urvi Awasthi",
+    "email": "urvi.awasthi@columbiaspectator.com",
+    "position": "Deputy Editorial Page Editor - Op-Eds"
+  }, {
+    "hierarchy": 1,
+    "name": "Destiny Spruill",
+    "email": "destiny.spruill@columbiaspectator.com",
+    "position": "Deputy Editorial Page Editor - Op-Eds"
+  }, {
+    "hierarchy": 1,
+    "name": "Laura Salgado",
+    "email": "laura.salgado@columbiaspectator.com",
+    "position": "Deputy Editorial Page Editor - Columns"
+  }, {
+    "hierarchy": 1,
+    "name": "Juan Diego Jaramillo",
+    "email": "juandiego.jaramillo@columbiaspectator.com",
+    "position": "Deputy Editorial Page Editor - Projects"
+  }, {
+    "hierarchy": 2,
+    "name": "Kyra Dawkins",
+    "email": "kyra.dawkins@columbiaspectator.com",
+    "position": "Associate Editorial Page Editor - Op-Eds"
+  }, {
+    "hierarchy": 2,
+    "name": "Zita Surprenant",
+    "email": "zita.surprenant@columbiaspectator.com",
+    "position": "Associate Editorial Page Editor - Op-Eds"
+  }, {
+    "hierarchy": 2,
+    "name": "Nastassia Maes",
+    "email": "nastassia.maes@columbiaspectator.com",
+    "position": "Associate Editorial Page Editor - Op-Eds"
+  }, {
+    "hierarchy": 2,
+    "name": "Rhea Sahai",
+    "email": "rhea.sahai@columbiaspectator.com",
+    "position": "Associate Editorial Page Editor - Op-Eds"
+  }, {
+    "hierarchy": 2,
+    "name": "Aja Johnson",
+    "email": "aja.johnson@columbiaspectator.com",
+    "position": "Associate Editorial Page Editor - Op-Eds"
+  }, {
+    "hierarchy": 2,
+    "name": "Oliver Bauer-Nathan",
+    "email": "oliver.bauer-nathan@columbiaspectator.com",
+    "position": "Associate Editorial Page Editor - Op-Eds"
+  }, {
+    "hierarchy": 2,
+    "name": "Caitlin McCormick",
+    "email": "caitlin.mccormick@columbiaspectator.com",
+    "position": "Associate Editorial Page Editor - Columns"
+  }, {
+    "hierarchy": 2,
+    "name": "Charlotte Force",
+    "email": "charlotte.force@columbiaspectator.edu",
+    "position": "Associate Editorial Page Editor - Columns"
+  }, {
+    "hierarchy": 2,
+    "name": "Erin Neil",
+    "email": "erin.neil@columbiaspectator.com",
+    "position": "Associate Editorial Page Editor - Columns"
+  }, {
+    "hierarchy": 2,
+    "name": "Katie Santamaria",
+    "email": "katie.santamaria@columbiaspectator.com",
+    "position": "Associate Editorial Page Editor - Projects"
+  }, {
+    "hierarchy": 2,
+    "name": "Kaili Meier",
+    "email": "kaili.meier@columbiaspectator.com",
+    "position": "Associate Editorial Page Editor - Projects"
+  }, {
+    "hierarchy": 2,
+    "name": "Sanjay Paul",
+    "email": "sanjay.paul@columbiaspectator.com",
+    "position": "Associate Editorial Page Editor - Projects"
+  }, {
+    "hierarchy": 2,
+    "name": "Dan Driscoll",
+    "email": "dan.driscoll@columbiaspectator.com",
+    "position": "Associate Editorial Page Editor - Projects"
+  }],
+  [{
+    "hierarchy": 0,
+    "name": "Sophie Kossakowski",
+    "email": "sophie.kossakowski@columbiaspectator.com",
+    "position": "Editor",
+    "nameOfListservYouUse": "arts-staff"
+  }, {
+    "hierarchy": 1,
+    "name": "Sarah Beckley",
+    "email": "sarah.beckley@columbiaspectator.com",
+    "position": "Deputy Editor"
+  }, {
+    "hierarchy": 1,
+    "name": "Gia Kim",
+    "email": "gia.kim@columbiaspectator.com",
+    "position": "Deputy Editor"
+  }, {
+    "hierarchy": 2,
+    "name": "Kat Drake",
+    "email": "kathleen.drake@columbiaspectator.com",
+    "position": "Staff writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Lexa Armstrong",
+    "email": "lexa.armstrong@columbiaspectator.com",
+    "position": "Staff writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Sarah Robertson",
+    "email": "sarah.robertson@columbiaspectator.com",
+    "position": "Staff writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Fonda Shen",
+    "email": "fonda.shen@columbiaspectator.com",
+    "position": "Staff writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Samuel D. Jones",
+    "email": "samuel.jones@columbiaspectator.com",
+    "position": "Staff writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Jack Meyer",
+    "email": "jack.meyer@columbiaspectator.com",
+    "position": "Staff writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Elena Scott",
+    "email": "elena.scott@columbiaspectator.com",
+    "position": "Staff writer"
+  }],
+  [{
+    "hierarchy": 0,
+    "name": "Chris Lopez",
+    "email": "Christopher.lopez@columbiaspectator.com",
+    "position": "Sports Editor",
+    "nameOfListservYouUse": "sportsstaff@columbiaspectator.com"
+  }, {
+    "hierarchy": 1,
+    "name": "Leo Goldman",
+    "email": "leo.goldman@columbiaspectator.com",
+    "position": "Deputy Sports Editor"
+  }, {
+    "hierarchy": 1,
+    "name": "Ally McDonough",
+    "email": "ally.mcdonough@columbiaspectator.com",
+    "position": "Deputy Sports Editor"
+  }, {
+    "hierarchy": 1,
+    "name": "Henry Schwartz",
+    "email": "henry.schwartz@columbiaspectator.com",
+    "position": "Deputy Sports Editor"
+  }, {
+    "hierarchy": 2,
+    "name": "Chapman Hughes",
+    "email": "chapman.hughes@columbiaspectator.com",
+    "position": "Associate Editor/Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Chituga Weli",
+    "email": "chituga.weli@columbiaspectator.com",
+    "position": "Associate Editor/Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Jonah Sharf",
+    "email": "jonah.sharf@columbiaspectator.com",
+    "position": "Associate Editor/Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Jered Everson",
+    "email": "jered.everson@columbiaspectator.com",
+    "position": "Associate Editor/Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Alex Andrejev",
+    "email": "alex.andrejev@columbiaspectator.com",
+    "position": "Associate Editor/Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Ishya Verma",
+    "email": "ishya.verma@columbiaspectator.com",
+    "position": "Associate Editor/Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Peter Demopoulos",
+    "email": "peter.demopoulos@columbiaspectator.com",
+    "position": "Associate Editor/Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Jacqueline Diggs",
+    "email": "jacqueline.diigs@columbiaspectator.com",
+    "position": "Associate Editor/Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Anthony Montes",
+    "email": "anthony.montes@columbiaspectator.com",
+    "position": "Associate Editor/Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Alexander Brett",
+    "email": "alexander.brett@columbiaspectator.com",
+    "position": "Associate Editor/Staff Writer"
+  }, {
+    "hierarchy": 2,
+    "name": "Sarah Toscano",
+    "email": "sarah.toscano@columbiaspectator.com",
+    "position": "Associate Editor/Staff Writer"
+  }],
+  [{
+    "hierarchy": 0,
+    "name": "Diane Kim",
+    "email": "diane.kim@columbiaspectator.com",
+    "position": "Design Editor"
+  }, {
+    "hierarchy": 0,
+    "name": "Cheryl Wang",
+    "email": "cheryl.wang@columbiaspectator.com",
+    "position": "Design Editor"
+  }, {
+    "hierarchy": 2,
+    "name": "Jane Haseman",
+    "email": "jane.haseman@columbiaspectator.com",
+    "position": "Data Projects "
+  }, {
+    "hierarchy": 1,
+    "name": "Zeyu (May) Cheng",
+    "email": "zeyu.cheng@columbiaspectator.com",
+    "position": "Layout Deputy"
+  }, {
+    "hierarchy": 2,
+    "name": "Alison Li",
+    "email": "alison.li@columbiaspectator.com",
+    "position": "Illustrator"
+  }, {
+    "hierarchy": 2,
+    "name": "Emily Li",
+    "email": "emily.li@columbiaspectator.com",
+    "position": "Illustrator"
+  }, {
+    "hierarchy": 2,
+    "name": "Jenny Lee",
+    "email": "jenny.lee@columbiaspectator.com",
+    "position": "Illustrator"
+  }, {
+    "hierarchy": 2,
+    "name": "Isabel Chun",
+    "email": "isabel.chun@columbiaspectator.com",
+    "position": "Illustrator"
+  }, {
+    "hierarchy": 2,
+    "name": "Rachel Page",
+    "email": "rachel.page@columbiaspectator.com",
+    "position": "Designer"
+  }, {
+    "hierarchy": 2,
+    "name": "Cindy Lin",
+    "email": "cindy.lin@columbiaspectator.com",
+    "position": "Designer"
+  }, {
+    "hierarchy": 2,
+    "name": "Katie Lee",
+    "email": "katie.lee@columbiaspectator.com",
+    "position": "Illustrator"
+  }, {
+    "hierarchy": 2,
+    "name": "Lilly Kwon",
+    "email": "lilly.kwon@columbiaspectator.com",
+    "position": "Illustrator"
+  }, {
+    "hierarchy": 1,
+    "name": "Michelle Shin",
+    "email": "michelle.shin@columbiaspectator.com",
+    "position": "Sports Graphics Deputy"
+  }, {
+    "hierarchy": 1,
+    "name": "Tassneen Bashir",
+    "email": "tassneen.bashir@columbiaspectator.com",
+    "position": "Illustrations Deputy"
+  }, {
+    "hierarchy": 2,
+    "name": "Nada Zohayr",
+    "email": "nada.zohayr@columbiaspectator.com",
+    "position": "Illustrator"
+  }, {
+    "hierarchy": 2,
+    "name": "Isabel Wong",
+    "email": "isabel.wong@columbiaspectator.com",
+    "position": "Designer"
+  }, {
+    "hierarchy": 2,
+    "name": "Amy Moon",
+    "email": "amy.moon@columbiaspectator.com",
+    "position": "Illustrator"
+  }, {
+    "hierarchy": 2,
+    "name": "Alondra Aguilar",
+    "email": "alondra.aguilar@columbiaspectator.com",
+    "position": "Designer"
+  }, {
+    "hierarchy": 2,
+    "name": "Pitchapa Chantanapongvanij",
+    "email": "pitchapa.c@columbiaspectator.com",
+    "position": "Designer"
+  }, {
+    "hierarchy": 2,
+    "name": "Suzy Shin",
+    "email": "suzy.shin@columbiaspectator.com",
+    "position": "Designer"
+  }, {
+    "hierarchy": 1,
+    "name": "Tanvi Hisaria",
+    "email": "Tanvi.Hisaria@columbiaspectator.com",
+    "position": "News Graphics Deputy"
+  }],
+  [{
+    "hierarchy": 0,
+    "name": "Katherine Gerberich",
+    "email": "katherine.gerberich@columbiaspectator.com",
+    "position": "Photo Editor"
+  }, {
+    "hierarchy": 1,
+    "name": "Kali Duffy",
+    "email": "kali.duffy@columbiaspectator.com",
+    "position": "Sports Photo Deputy",
+    "nameOfListservYouUse": "photostaff"
+  }, {
+    "hierarchy": 1,
+    "name": "Trinity Lester",
+    "email": "trinity.lester@columbiaspectator.com",
+    "position": "A&E Photo Deputy"
+  }, {
+    "hierarchy": 1,
+    "name": "Rya Inman",
+    "email": "rya.inman@columbiaspectator.com",
+    "position": "News Photo Deputy"
+  }, {
+    "hierarchy": 2,
+    "name": "Yasmine Akki",
+    "email": "yasmine.akki@columbiaspectator.com",
+    "position": "Senior Staff Photographer"
+  }, {
+    "hierarchy": 2,
+    "name": "Jaime Danies",
+    "email": "jaime.danies@columbiaspectator.com",
+    "position": "Senior Staff Photographer"
+  }, {
+    "hierarchy": 2,
+    "name": "Benjamin Goldsmith",
+    "email": "benjamin.goldsmith@columbiaspectator.com",
+    "position": "Senior Staff Photographer"
+  }, {
+    "hierarchy": 2,
+    "name": "Michael Edmonson",
+    "email": "michael.edmonson@columbiaspectator.com",
+    "position": "Senior Staff Photographer"
+  }, {
+    "hierarchy": 3,
+    "name": "Amelia Milne",
+    "email": "amelia.milne@columbiaspectator.com",
+    "position": "Staff Photographer"
+  }, {
+    "hierarchy": 3,
+    "name": "Athena Chin",
+    "email": "athena.chin@columbiaspectator.com",
+    "position": "Staff Photographer"
+  }, {
+    "hierarchy": 3,
+    "name": "Cherrie Zheng",
+    "email": "yz3163@barnard.edu",
+    "position": "Staff Photographer"
+  }, {
+    "hierarchy": 3,
+    "name": "Elza Bouhassira",
+    "email": "elza.bouhassira@columbiaspectator.com",
+    "position": "Staff Photographer"
+  }, {
+    "hierarchy": 3,
+    "name": "Kirill Buskirk",
+    "email": "kirill.buskirk@columbiaspectator.com",
+    "position": "Staff Photographer"
+  }, {
+    "hierarchy": 3,
+    "name": "Kshithija KJ Mulam",
+    "email": "kshithija.mulam@columbiaspectator.com",
+    "position": "Staff Photographer"
+  }, {
+    "hierarchy": 3,
+    "name": "Natalie Guerra",
+    "email": "natalie.guerra@columbiaspectator.com",
+    "position": "Staff Photographer"
+  }, {
+    "hierarchy": 3,
+    "name": "Natalie Tischler",
+    "email": "natalie.tischler@columbiaspectator.com",
+    "position": "Staff Photographer"
+  }, {
+    "hierarchy": 3,
+    "name": "Xavier Dade",
+    "email": "xavier.dade@columbiaspectator.com",
+    "position": "Staff Photographer"
+  }],
+  [{
+    "hierarchy": 0,
+    "name": "Gustaf Ahdritz",
+    "email": "gwa2107@columbia.edu",
+    "position": "Head Copy Editor",
+    "nameOfListservYouUse": "copy-editors"
+  }, {
+    "hierarchy": 1,
+    "name": "Romy Felsen-Parsons",
+    "email": "rf2614@columbia.edu",
+    "position": "Deputy Copy Editor"
+  }, {
+    "hierarchy": 1,
+    "name": "Rachel Jones",
+    "position": "Deputy Copy Editor"
+  }, {
+    "hierarchy": 1,
+    "name": "Philip Kim",
+    "email": "pk2542@columbia.edu",
+    "position": "Deputy Copy Editor"
+  }, {
+    "hierarchy": 1,
+    "name": "Lindsey Sanderson",
+    "email": "lgs2136@columbia.edu",
+    "position": "Deputy Copy Editor"
+  }, {
+    "hierarchy": 2,
+    "name": "Judith Teboul",
+    "email": "jt2939@columbia.edu",
+    "position": "Associate Copy Editor"
+  }, {
+    "hierarchy": 2,
+    "name": "Amelia Tian",
+    "email": "xt2189@columbia.edu",
+    "position": "Associate Copy Editor"
+  }, {
+    "hierarchy": 2,
+    "name": "Samantha Caveny",
+    "email": "samantha.k.caveny@columbia.edu",
+    "position": "Associate Copy Editor"
+  }, {
+    "hierarchy": 2,
+    "name": "Ramsay Eyre",
+    "email": "ramsay.eyre@columbia.edu",
+    "position": "Associate Copy Editor"
+  }, {
+    "hierarchy": 2,
+    "name": "Hannah Park",
+    "email": "hp2399@barnard.edu",
+    "position": "Associate Copy Editor"
+  }, {
+    "hierarchy": 2,
+    "name": "Eden Teferi",
+    "email": "ett2111@columbia.edu",
+    "position": "Associate Copy Editor"
+  }, {
+    "hierarchy": 2,
+    "name": "Tuesday Smith",
+    "email": "tas2204@barnard.edu",
+    "position": "Associate Copy Editor"
+  }, {
+    "hierarchy": 2,
+    "name": "Maria Thompson",
+    "email": "maria.thompson@columbia.edu",
+    "position": "Associate Copy Editor"
+  }, {
+    "hierarchy": 2,
+    "name": "Susanna Chang",
+    "email": "sc3999@columbia.edu",
+    "position": "Associate Copy Editor"
+  }, {
+    "hierarchy": 2,
+    "name": "Erica Kam",
+    "email": "enk2118@barnard.edu",
+    "position": "Associate Copy Editor"
+  }, {
+    "hierarchy": 3,
+    "name": "Shauna McNamara",
+    "email": "smm2314@columbia.edu",
+    "position": "Preslotter"
+  }, {
+    "hierarchy": 3,
+    "name": "Jacob Hirsch",
+    "email": "jlh2235@columbia.edu",
+    "position": "Preslotter"
+  }, {
+    "hierarchy": 3,
+    "name": "Kaatje Greenberg",
+    "email": "ksg2136@columbia.edu",
+    "position": "Preslotter"
+  }, {
+    "hierarchy": 3,
+    "name": "Hyun Joon Choi",
+    "email": "hyunjoon.choi@columbia.edu",
+    "position": "Preslotter"
+  }, {
+    "hierarchy": 3,
+    "name": "Jasper Howald",
+    "email": "jdh2195@columbia.edu",
+    "position": "Preslotter"
+  }, {
+    "hierarchy": 3,
+    "name": "Melissa Dimopulo",
+    "email": "md3378@columbia.edu",
+    "position": "Preslotter"
+  }, {
+    "hierarchy": 3,
+    "name": "Chidimma Nzerem",
+    "email": "cnn2107@columbia.edu",
+    "position": "Preslotter"
+  }, {
+    "hierarchy": 3,
+    "name": "Tracy Chen",
+    "email": "tc2898@columbia.edu",
+    "position": "Preslotter"
+  }, {
+    "hierarchy": 3,
+    "name": "Esteban De Las Traviesas",
+    "email": "ed2774@columbia.edu",
+    "position": "Preslotter"
+  }, {
+    "hierarchy": 3,
+    "name": "Sophia Ramirez",
+    "email": "sr3263@columbia.edu",
+    "position": "Preslotter"
+  }, {
+    "hierarchy": 3,
+    "name": "Stephanie Rovine",
+    "email": "sr3268@columbia.edu",
+    "position": "Preslotter"
+  }, {
+    "hierarchy": 3,
+    "name": "Sage Max",
+    "email": "sm3915@barnard.edu",
+    "position": "Preslotter"
+  }],
+  [{
+    "hierarchy": 0,
+    "name": "Madeleine Leddy",
+    "email": "madeleine.leddy@columbiaspectator.com",
+    "position": "Spectrum deputy",
+    "nameOfListservYouUse": "spectrum-team@columbiaspectator.com"
+  }, {
+    "hierarchy": 0,
+    "name": "Peyton Ayers",
+    "email": "peyton.ayers@columbiaspectator.com",
+    "position": "Spectrum deputy"
+  }],
+  [{
+    "hierarchy": 0,
+    "name": "William Chiu",
+    "email": "william.chiu@columbiaspectator.com",
+    "position": "Head of Product",
+    "nameOfListservYouUse": "Tier 0"
+  }, {
+    "hierarchy": 1,
+    "name": "Arsalaan Ansari",
+    "email": "arsalaan.ansari@columbiaspectator.com",
+    "position": "Lead Engineer",
+    "nameOfListservYouUse": "Tier 1"
+  }, {
+    "hierarchy": 1,
+    "name": "Kevin Li",
+    "email": "kevin.li@columbiaspectator.com",
+    "position": "Lead Developer",
+    "nameOfListservYouUse": "Tier 2"
+  }, {
+    "hierarchy": 1,
+    "name": "Stacy Tao",
+    "email": "stacy.tao@columbiaspectator.com",
+    "position": "Lead Developer"
+  }, {
+    "hierarchy": 2,
+    "name": "Prakruth Adari",
+    "email": "prakruth.adari@columbiaspectator.com",
+    "position": "Red Team Associate Developer"
+  }, {
+    "hierarchy": 2,
+    "name": "Raymond Li",
+    "email": "raymond.li@columbiaspectator.com",
+    "position": "Red Team Associate Developer"
+  }, {
+    "hierarchy": 2,
+    "name": "Abhi Gupta",
+    "email": "abhi.gupta@columbiaspectator.com",
+    "position": "Red Team Associate Developer"
+  }, {
+    "hierarchy": 2,
+    "name": "Emma Vukelj",
+    "email": "emma.vukelj@columbiaspectator.com",
+    "position": "Red Team Associate Developer"
+  }, {
+    "hierarchy": 2,
+    "name": "Kathy Lau",
+    "email": "kathy.lau@columbiaspectator.com",
+    "position": "Red Team Associate Developer"
+  }, {
+    "hierarchy": 2,
+    "name": "Matthew Broughton",
+    "email": "matthew.broughton@columbiaspectator.com",
+    "position": "Red Team Associate Developer"
+  }, {
+    "hierarchy": 2,
+    "name": "Rahul Kataria",
+    "email": "rahul.kataria@columbiaspectator.com",
+    "position": "Red Team Associate Developer"
+  }, {
+    "hierarchy": 2,
+    "name": "Justin Zwick",
+    "email": "justin.zwick@columbiaspectator.com",
+    "position": "Red Team Associate Developer"
+  }, {
+    "hierarchy": 2,
+    "name": "Biqing Qiu",
+    "email": "biqing.qiu@columbiaspectator.com",
+    "position": "Red Team Associate Developer"
+  }, {
+    "hierarchy": 2,
+    "name": "Lucie le Blanc",
+    "email": "lucie.leblanc@columbiaspectator.com",
+    "position": "Red Team Associate Developer"
+  }, {
+    "hierarchy": 2,
+    "name": "Dru Grossberg",
+    "email": "dru.grossberg@columbiaspectator.com",
+    "position": "Red Team Associate Developer"
+  }, {
+    "hierarchy": 2,
+    "name": "Irene Nam",
+    "email": "irene.nam@columbiaspectator.com",
+    "position": "Front End Associate Developer"
+  }, {
+    "hierarchy": 2,
+    "name": "Alice Zhang",
+    "email": "alice.zhang@columbiaspectator.com",
+    "position": "Front End Associate Developer"
+  }, {
+    "hierarchy": 2,
+    "name": "Matthew Vanegas",
+    "email": "matthew.vanegas@columbiaspectator.com",
+    "position": "Front End Associate Developer"
+  }, {
+    "hierarchy": 2,
+    "name": "Yuna Shin",
+    "email": "yuna.shin@columbiaspectator.com",
+    "position": "Front End Associate Developer"
+  }, {
+    "hierarchy": 2,
+    "name": "Kelvin Xu",
+    "email": "kelvin.xu@columbiaspectator.com",
+    "position": "Front End Associate Developer"
+  }, {
+    "hierarchy": 3,
+    "name": "Janie Haseman",
+    "email": "jane.haseman@columbiaspectator.com",
+    "position": "Front End Trainee"
+  }, {
+    "hierarchy": 2,
+    "name": "Natalie Vibhagool",
+    "email": "natalie.vibhagool@columbiaspectator.com",
+    "position": "Product Designer"
+  }, {
+    "hierarchy": 2,
+    "name": "Eleanor Chen",
+    "email": "eleanor.chen@columbiaspectator.com",
+    "position": "Product Designer"
+  }, {
+    "hierarchy": 2,
+    "name": "Cherie Chu",
+    "email": "cherie.chu@columbiaspectator.com",
+    "position": "Product Designer"
+  }, {
+    "hierarchy": 3,
+    "name": "Alison Li",
+    "email": "alison.li@columbiaspectator.com",
+    "position": "Product Design Trainee"
+  }, {
+    "hierarchy": 2,
+    "name": "Amanda Frame",
+    "email": "amanda.frame@columbiaspectator.com",
+    "position": "Product Designer"
+  }],
+  [{
+    "hierarchy": 0,
+    "name": "Nima Mozhgani",
+    "email": "nima.mozhgani@columbiaspectator.com",
+    "position": "Revenue Director",
+    "nameOfListservYouUse": "revenue-team@columbiaspectator.com"
+  }, {
+    "hierarchy": 1,
+    "name": "Andrew Gruber",
+    "email": "andrew.gruber@columbiaspectator.com",
+    "position": "Sales Associate"
+  }, {
+    "hierarchy": 1,
+    "name": "Maria Avila-Franklin",
+    "email": "maria.avila-franklin@columbiaspectator.com",
+    "position": "Sales Associate"
+  }],
+  [{
+    "hierarchy": 0,
+    "name": "Maya Perry",
+    "email": "maya.perry@columbiaspectator.com",
+    "position": "Managing Editor of The Eye",
+    "board": "MB"
+  }, {
+    "hierarchy": 1,
+    "name": "Juliana Kim",
+    "email": "juliana.kim@columbiaspectator.com",
+    "position": "Lead Story Editor",
+    "board": "DB"
+  }, {
+    "hierarchy": 1,
+    "name": "Lyric Bowditch",
+    "email": "lyric.bowditch@columbiaspectator.com",
+    "position": "Deputy Features Editor",
+    "board": "DB"
+  }, {
+    "hierarchy": 1,
+    "name": "Parth Chhabra",
+    "email": "parth.chhabra@columbiaspectator.com",
+    "position": "Deputy Features Editor",
+    "board": "DB"
+  }, {
+    "hierarchy": 2,
+    "name": "Arminda Downey-Mavromatis",
+    "email": "arminda.downey-mavromatis@columbiaspectator.com",
+    "position": "Associate Features Editor",
+    "board": "AB"
+  }, {
+    "hierarchy": 2,
+    "name": "Candy Chan",
+    "email": "candy.chan@columbiaspectator.com",
+    "position": "Associate Features Editor",
+    "board": "AB"
+  }, {
+    "hierarchy": 2,
+    "name": "Elizabeth Merrigan",
+    "email": "elizabeth.merrigan@columbiaspectator.com",
+    "position": "Associate Features Editor",
+    "board": "AB"
+  }, {
+    "hierarchy": 2,
+    "name": "Julian Shen-Berro",
+    "email": "julian.shen-berro@columbiaspectator.com",
+    "position": "Associate Features Editor",
+    "board": "AB"
+  }, {
+    "hierarchy": 2,
+    "name": "Peyton Alie",
+    "email": "peyton.alie@columbiaspectator.com",
+    "position": "Associate Features Editor",
+    "board": "AB"
+  }, {
+    "hierarchy": 2,
+    "name": "Kendra Zhong",
+    "email": "kendra.zhong@columbiaspectator.com",
+    "position": "Associate Features Editor",
+    "board": "AB"
+  }, {
+    "hierarchy": 2,
+    "name": "Gavrielle Jacobovitz",
+    "email": "gavrielle.jacobovitz@columbiaspectator.com",
+    "position": "View From Here Editor",
+    "board": "AB"
+  }, {
+    "hierarchy": 3,
+    "name": "Alex Gluckman",
+    "email": "alex.gluckman@columbiaspectator.com",
+    "position": "Staff Writer",
+    "board": "AB"
+  }, {
+    "hierarchy": 3,
+    "name": "Amulya Tadimety",
+    "email": "amula.tadimety@columbiaspectator.com",
+    "position": "Staff Writer",
+    "board": "AB"
+  }, {
+    "hierarchy": 3,
+    "name": "Emile Warot",
+    "email": "emile.warot@columbiaspectator.com",
+    "position": "Staff Writer",
+    "board": "AB"
+  }, {
+    "hierarchy": 3,
+    "name": "Floriana Milazzo ",
+    "email": "floriana.milazzo@columbiaspectator.com",
+    "position": "Staff Writer",
+    "board": "AB"
+  }, {
+    "hierarchy": 3,
+    "name": "Imani Benberry",
+    "email": "imani.benberry@columbiaspectator.com",
+    "position": "Staff Writer",
+    "board": "AB"
+  }, {
+    "hierarchy": 3,
+    "name": "Jake Arlow",
+    "email": "jake.arlow@columbiaspectator.com",
+    "position": "Staff Writer - The Ear",
+    "board": "AB"
+  }, {
+    "hierarchy": 3,
+    "name": "Jesse Chase-Lubitz",
+    "email": "jesse.chase-lubitz@columbiaspectator.com",
+    "position": "Staff Writer",
+    "board": "AB"
+  }, {
+    "hierarchy": 3,
+    "name": "Justin Cheng",
+    "email": "justin.cheng@columbiaspectator.com",
+    "position": "Staff Writer",
+    "board": "AB"
+  }, {
+    "hierarchy": 3,
+    "name": "Kara Schechtman",
+    "email": "kara.schechtman@columbiaspectator.com",
+    "position": "Staff Writer - The Ear",
+    "board": "AB"
+  }, {
+    "hierarchy": 3,
+    "name": "Laura Block",
+    "email": "laura.block@columbiaspectator.com",
+    "position": "Staff Writer",
+    "board": "AB"
+  }, {
+    "hierarchy": 3,
+    "name": "Maneet Khaira",
+    "email": "maneet.khaira@columbiaspectator.com",
+    "position": "Staff Writer",
+    "board": "AB"
+  }, {
+    "hierarchy": 3,
+    "name": "Megan Evershed",
+    "email": "megan.evershed@columbiaspectator.com",
+    "position": "Staff Writer",
+    "board": "AB"
+  }, {
+    "hierarchy": 3,
+    "name": "Skylar Fetter",
+    "email": "skylar.fetter@columbiaspectator.com",
+    "position": "Staff Writer",
+    "board": "AB"
+  }, {
+    "hierarchy": 3,
+    "name": "Sophia Cornell",
+    "email": "sophia.cornell@columbiaspectator.com",
+    "position": "Staff Writer",
+    "board": "AB",
+    "nameOfListservYouUse": "eye-team"
+  }, {
+    "hierarchy": 3,
+    "name": "Trisha Mukherjee",
+    "email": "trisha.mukherjee@columbiaspectator.com",
+    "position": "Staff Writer",
+    "board": "AB"
+  }, {
+    "name": "Jordan Allyn",
+    "email": "jordan.allyn@columbiaspectator.com",
+    "position": "Staff Writer"
+  }, {
+    "name": "Justin Cheng",
+    "email": "justin.cheng@columbiaspectator.com",
+    "position": "Staff Writer"
+  }, {
+    "name": "Molly Miller",
+    "email": "molly.miller@columbiaspectator.com",
+    "position": "Staff Writer"
+  }, {
+    "name": "Maya Perry",
+    "email": "maya.perry@columbiaspectator.com",
+    "position": "Lead Story Editor"
+  }, {
+    "name": "Rebecca Ausseil",
+    "email": "rebecca.ausseil@columbiaspectator.com",
+    "position": "Managing Editor, The Eye"
+  }],
+  [{
+    "hierarchy": 2,
+    "name": "Cayla Davis",
+    "email": "cayla.davis@columbiaspectator.com",
+    "position": "Engagement Trainee",
+    "nameOfListservYouUse": "engagement-team@columbiaspectator.com"
+  }, {
+    "hierarchy": 2,
+    "name": "Emma Mizrahi-Powell",
+    "email": "emma.mizrahipowell@columbiaspectator.com",
+    "position": "Engagement Trainee"
+  }, {
+    "hierarchy": 0,
+    "name": "Angela Liu",
+    "email": "angela.liu@columbiaspectator.com",
+    "position": "Engagement Manager"
+  }, {
+    "hierarchy": 2,
+    "name": "Amrita Khan",
+    "email": "amrita.khan@columbiaspectator.com",
+    "position": "Engagement Trainee"
+  }, {
+    "hierarchy": 2,
+    "name": "Isabel Jauregui",
+    "email": "isabel.jauregui@columbiaspectator.com",
+    "position": "Engagement Trainee"
+  }, {
+    "hierarchy": 1,
+    "name": "Madison Harden",
+    "email": "madison.harden@columbiaspectator.com",
+    "position": "Engagement Associate"
+  }, {
+    "hierarchy": 1,
+    "name": "Sophie Battat",
+    "email": "sophie.battat@columbiaspectator.com",
+    "position": "Engagement Associate"
+  }, {
+    "hierarchy": 1,
+    "name": "Victoria Yi",
+    "email": "victoria.yi@columbiaspectator.com",
+    "position": "Engagement Associate"
+  }, {
+    "hierarchy": 2,
+    "name": "Alisha Sahay",
+    "email": "alisha.sahay@columbiaspectator.com",
+    "position": "Engagement Trainee"
+  }]
 ]
